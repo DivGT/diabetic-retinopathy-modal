@@ -5,8 +5,7 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers_%26_VLMs-yellow.svg)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-> **Research Project Credential:** `IIITR/CSE/BS/2026/13`  
-> **Affiliation:** Indian Institute of Information Technology (IIIT), Ranchi  
+
 > **Author:** Divyanshu Gupta ([Portfolio](https://my-portfolio-divyanshu.netlify.app) | [LinkedIn](https://www.linkedin.com/in/divyanshu-gupta13592/))
 
 ---
