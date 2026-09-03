@@ -13,19 +13,19 @@
 
 ---
 
-## 📌 Notice
+##  Notice
 > **Repository Status:** The core code modules, fine-tuned LoRA weights, and Gradio inference pipelines are actively being migrated into this repository following local workspace reconstruction. Checkpoints and interactive demos will be published to Hugging Face Hub shortly.
 
 ---
 
-## 🔬 Project Overview
+##  Project Overview
 Diabetic Retinopathy (DR) is one of the leading causes of preventable blindness worldwide. While automated classification algorithms exist, clinical adoption remains low due to the **"black box"** nature of standard deep convolutional models.
 
 This project delivers an **Explainable Multimodal Diagnostic Pipeline** for detecting and grading Diabetic Retinopathy from color retinal fundus imaging and scan sequences. By pairing parameter-efficient fine-tuning (QLoRA) on Vision-Language Models (VLMs) and Vision Transformers (ViT) with explicit visual interpretability (attention maps / Grad-CAM), the system outputs both a clinical stage classification and a transparent rationale explaining *why* the decision was made.
 
 ---
 
-## ⚙️ Key Technical Features
+##  Key Technical Features
 
 * **Multimodal Input Handling:** Accepts single-frame fundus photography (`.jpg`, `.png`) as well as multi-frame retinal video feeds/scans (`.mp4`, `.avi`) via automated temporal keyframe extraction (1 FPS).
 * **Clinical 5-Stage Grading:** Classifies retinal scans based on the International Clinical Diabetic Retinopathy (ICDR) scale:
@@ -42,7 +42,7 @@ This project delivers an **Explainable Multimodal Diagnostic Pipeline** for dete
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
        Retinal Input (Image or Video Feed)
