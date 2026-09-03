@@ -1,7 +1,5 @@
 # Multimodal & Explainable AI for Early Diabetic Retinopathy Detection
 
-[![Research Status](https://img.shields.io/badge/Status-Active_Development_%2F_Pipeline_Migration-blue.svg)](https://github.com/DivGT)
-[![Internship](https://img.shields.io/badge/IIIT_Ranchi-Research_Internship-orange.svg)](https://iiitranchi.ac.in)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers_%26_VLMs-yellow.svg)](https://huggingface.co/)
